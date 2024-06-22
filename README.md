@@ -38,7 +38,7 @@ I'm a passionate Full Stack Developer with a strong curiosity for technology and
 
 - Connect with me on [Whatsapp](https://wa.me/+201050930033)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/mohab-rageh-090079275/)
-- Connect with me on [Gmail](https://mailto:mohabrageh3@gmail.com)
+- Connect with me on [Gmail](mailto:mohabrageh3@gmail.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
