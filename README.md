@@ -29,7 +29,7 @@ I'm a passionate Full Stack Developer with a strong curiosity for technology and
 
 ## 🌱 Currently Exploring
 
-- 🚀 Passionate about: Learning Full Stack Web Development.
+  - 🚀 Passionate about: Learning Full Stack Web Development.
   - Always exploring: new tech stacks and other programming languages.
   - Delving into AI and Data Science.
   - Aiming to pursue a Master's degree in AI.
