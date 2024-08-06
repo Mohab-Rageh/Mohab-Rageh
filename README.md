@@ -24,6 +24,7 @@ I'm a passionate Full Stack Developer with a strong curiosity for technology and
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
 
+## Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mohab-Rageh&theme=dark)](https://git.io/streak-stats)
 
 ## 🌱 Currently Exploring
