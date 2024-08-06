@@ -13,7 +13,7 @@ I'm a passionate Full Stack Developer with a strong curiosity for technology and
 - 🎆 +2 years in Software Development (Freelance and Full-Time Remote)
 
 
-## Tech Stack
+## 👨🏻‍💻 Tech Stack
 - Front End
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,sass,redux,nextjs)](https://skillicons.dev)
