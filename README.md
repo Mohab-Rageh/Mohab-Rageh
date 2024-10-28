@@ -10,7 +10,7 @@ I'm a passionate Full Stack Developer with a strong curiosity for technology and
 - 🔭 Bachelor's Degree in Computer Science GPA > 3 (Ain Shams University, Graduated with Honors).
 - 🔭 Currently pursuing Master's Degree in Computer Science (Ain Shams University).
 - 📅 My birth date is: 12/8/2000
-- 🎆 +2 years in Software Development (Freelance and Full-Time Remote)
+- 🎆 +2 years in Software Development 
 
 
 ## 👨🏻‍💻 Tech Stack
