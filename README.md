@@ -16,10 +16,10 @@ I'm a passionate Full Stack Developer with a strong curiosity for technology and
 ## 👨🏻‍💻 Tech Stack
 - Front End
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,sass,redux,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,sass,redux,nextjs,tailwind,antd)](https://skillicons.dev)
 - Back End
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgresql,expressjs,kafka,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,expressjs,nestjs,prisma,typeorm,)](https://skillicons.dev)
 - Other
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
