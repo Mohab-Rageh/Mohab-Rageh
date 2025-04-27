@@ -21,7 +21,7 @@ I'm a **Senior Full Stack Developer** passionate about building scalable web app
 - Built a **dynamic filtering system** and an **AI-powered chatbot** using **ChatGPT** integration.
 - Created a **unified multi-chat system** integrating Facebook Messenger and WhatsApp.
 
-**Senior Full Stack Engineer** — TIXAE.AI
+**Senior Full Stack Engineer** —  [TIXAE.AI]([https://eduncy.com/](https://tixae.ai/))
 - Developed an **AI agent testing platform** with **Node.js, tRPC, and Suparisma**.
 - Designed comprehensive **analytics dashboards** for performance and KPI tracking.
 - Integrated multiple AI tools: **OpenAI, Deepgram, Retell, Vapi, Tiexa Agents** for real-time voice call generation and transcription.
