@@ -1,62 +1,97 @@
 # Hi, I'm Mohab Rageh! 👋
 
+I'm a **Senior Full Stack Developer** passionate about building scalable web applications, exploring cutting-edge technologies, and constantly pushing the boundaries of what's possible with code.
 
-I'm a passionate Full Stack Developer with a strong curiosity for technology and a love for crafting elegant code. I'm constantly exploring new ideas and enjoy sharing my knowledge with the community.
-
-
+---
 
 ## 🚀 About Me
+- 🎓 **Bachelor's Degree in Computer Science** (Graduated with Honors) — Ain Shams University (2018–2022)
+- 🎓 **Currently pursuing a Master's Degree** in Computer Science — Ain Shams University (2023–2025)
+- 🛠 **+3 years** of hands-on experience in Full Stack Software Development
+- 📅 **Date of Birth:** 12/8/2000
+- 🌍 Based in Cairo, Egypt
 
-- 🔭 Bachelor's Degree in Computer Science GPA > 3 (Ain Shams University, Graduated with Honors).
-- 🔭 Currently pursuing Master's Degree in Computer Science (Ain Shams University).
-- 📅 My birth date is: 12/8/2000
-- 🎆 +2 years in Software Development 
+---
 
+## 👨🏻‍💻 Professional Experience
 
-## 👨🏻‍💻 Tech Stack
-- Front End
-  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,sass,redux,nextjs,tailwind,figma)](https://skillicons.dev)
-- Back End
+**Senior Full Stack Engineer** — [Eduncy](https://eduncy.com/)
+- Developed a CRM system using **tRPC, Ant Design, Next.js, Prisma, and AWS S3** integration.
+- Optimized lead and deal management by improving load times by **20%**.
+- Built a **dynamic filtering system** and an **AI-powered chatbot** using **ChatGPT** integration.
+- Created a **unified multi-chat system** integrating Facebook Messenger and WhatsApp.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,postgres,expressjs,nestjs,prisma,)](https://skillicons.dev)
-- Other
+**Senior Full Stack Engineer** — TIXAE.AI
+- Developed an **AI agent testing platform** with **Node.js, tRPC, and Suparisma**.
+- Designed comprehensive **analytics dashboards** for performance and KPI tracking.
+- Integrated multiple AI tools: **OpenAI, Deepgram, Retell, Vapi, Tiexa Agents** for real-time voice call generation and transcription.
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,aws,jest,pnpm,redis)](https://skillicons.dev)
+---
 
-## Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mohab-Rageh&theme=dark)](https://git.io/streak-stats)
+## 💻 Tech Stack
+
+### Front-End Development
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Frameworks & Libraries:** React.js, Next.js (Pages & App Router), Redux Toolkit, React Query, Tailwind CSS, SCSS, Bootstrap, Ant Design, Material UI
+
+### Back-End Development
+- **Languages:** Node.js, TypeScript
+- **Frameworks:** NestJS, Express.js
+- **Databases:** MongoDB, PostgreSQL, Prisma ORM, TypeORM
+- **API Development:** RESTful APIs, GraphQL, tRPC
+
+### DevOps, Cloud, and Integrations
+- AWS (EC2, S3)
+- Redis
+- Twilio API, Facebook (Meta) API, Wazzup Integration
+- ChatGPT API, OpenAI Integration
+- Deepgram, Vapi, Retell Services
+
+### Testing & Quality Assurance
+- Jest, Vitest
+- Zod, Class Validator
+
+### Tools & Other Skills
+- Git, GitHub Actions, CI/CD Pipelines
+- Figma (UI/UX Collaboration)
+- Webpack, Vite, pnpm
+
+---
 
 ## 🌱 Currently Exploring
 
-  - 🚀 Passionate about: Learning Full Stack Web Development.
-  - Always exploring: new tech stacks and other programming languages.
-  - Delving into AI and Data Science.
-  - Aiming to pursue a Master's degree in AI.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Mastering PostgreSQL for efficient and scalable database management.
+- Advanced Full Stack Architectures and Microservices
+- Deep Learning, NLP, and AI technologies
+- Server-Side Development with Django (Python)
+- High-Performance Database Management with PostgreSQL
+- Scaling AI solutions for production-ready systems
 
+---
 
-## 📬 Get in Touch
+## 📜 Certifications
 
-- Connect with me on [Whatsapp](https://wa.me/+201050930033)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/mohab-rageh-090079275/)
-- Connect with me on [Gmail](mailto:mohabrageh3@gmail.com)
+- HackerRank Problem-Solving Certification
+- The Principles of Writing Clean Code
+- Web Development Bootcamp Graduate
+- The MERN Full Stack Guide
+- ATOS Fresh Graduate Program
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+[View Certificates](https://www.hackerrank.com/certificates/5ae2686117e4)
 
+---
 
+## 📊 Github Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mohab-Rageh&theme=dark)](https://git.io/streak-stats)
 
-<!--
+---
 
-Here are some ideas to get you started:
+## 📬 Let's Connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📞 [WhatsApp](https://wa.me/+201050930033)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohab-rageh-090079275/)
+- 📧 [Gmail](mailto:mohabrageh3@gmail.com)
+- 💻 [GitHub](https://github.com/Mohab-Rageh)
+
+---
+
+> "Thanks for visiting my profile! Let's create something extraordinary together. 🚀"
